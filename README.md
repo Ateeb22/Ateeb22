@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ateeb Sheikh<br>Trainee Software Developer<br><br>🔭 I’m currently working on React JS project.<br>🌱 I’m currently learning Professional JavaScript from Udemy, also other frameworks.<br>💬 Ask me about HTML5 | CSS3 | Bootstrap | WordPress | JavaScript | TypeScript | React JS | Angular JS | C | C# | Jira | QA | SQL<br>📫 How to reach me smateeb208@gmail.com | +92 301 8640131
+Hi 👋, I'm Ateeb Sheikh<br>Full Stack Developer<br><br>🔭 I’m currently working on React JS project.<br>🌱 I’m currently learning Professional JavaScript from Udemy, also other frameworks.<br>💬 Ask me about HTML5 | CSS3 | Bootstrap | WordPress | JavaScript | TypeScript | React JS | Angular JS | C | C# | Jira | QA | SQL<br>📫 How to reach me smateeb208@gmail.com | +92 301 8640131
 
 
 ## 🌐 Socials:
