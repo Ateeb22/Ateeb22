@@ -1,16 +1,18 @@
 # 💫 About Me:
-Hi 👋, I'm Ateeb Sheikh<br>💻 Full Stack Developer | Lifelong Learner | Tech Enthusiast<br><br>🔭 🚀 I’m currently working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing, and Full Stack Development — all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real-world solutions through hands-on learning and project-based teaching.
+Hi 👋, I'm Ateeb Sheikh<br>💻 Full Stack Developer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing and Full Stack Development all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real world solutions through hands on learning and project based teaching.
 
-💼 Previously, I worked at 7nSoft Systems (Pvt.) Ltd. as a Frontend Developer, where I gained practical experience in JavaScript and React.js, and later contributed to a .NET Core project — strengthening my backend development skills and full-stack understanding.
+💼 Previously, I worked at 7nSoft Systems (Pvt.) Ltd. as a Frontend Developer where I gained practical experience in JavaScript and React.js and later contributed to a .NET Core project strengthening my backend development skills and full Stack understanding.
 
-🎓 I hold a BS in Computer Science, where I built a strong foundation in software development, database management, and web technologies. For my final year project, I developed a software solution called “Lifeline”, designed to address patient and hospital management challenges through dedicated dashboards and data-driven insights.
+🎓 I hold a BS in Computer Science where I built a strong foundation in software development, database management and web technologies. For my final year project, I developed a software solution called “Lifeline”, designed to address patient and hospital management challenges through dedicated dashboards and data driven insights.
 
 💡 Tech Stack & Skills:
-HTML5 | CSS3 | Bootstrap | JavaScript | TypeScript | React.js | AngularJS | WordPress | C | C# | .NET Core | SQL | Jira | QA | Digital Marketing
+HTML5 | CSS3 | Bootstrap | JavaScript | TypeScript | React.js | AngularJS | Python | Django | WordPress | C | C# | .NET Core | SQL | Jira | QA | Digital Marketing
 
-🌱 I’m continuously learning and growing, currently deepening my expertise in Professional JavaScript and modern frameworks through Udemy and real-world practice.
+🌱 I’m continuously learning and growing, currently deepening my expertise in Professional JavaScript and modern frameworks through Udemy and real world practice.
 
-📫 How to reach me smateeb208@gmail.com | +92 301 8640131
+📫 How to reach me Let’s Connect:
+📧 smateeb208@gmail.com
+📱 +92 301 8640131
 
 
 ## 🌐 Socials:
