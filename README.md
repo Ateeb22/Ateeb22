@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi 👋, I'm Ateeb Sheikh<br>💻 Full Stack Developer | IT Lecturer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing and Full Stack Development all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real world solutions through hands on learning and project based teaching.
 
-💼 Previously, I worked at 7nSoft Systems (Pvt.) Ltd. as a Frontend Developer where I gained practical experience in JavaScript and React.js and later contributed to a .NET Core project strengthening my backend development skills and full Stack understanding.
+💼 I have experience working as a Full Stack Developer at Nexiz Digital, where I contributed to the development of an HR system using Python and Django for the backend, along with frontend integration and end-to-end full-stack responsibilities.
+
+Before that, I worked at 7nSoft Systems (Pvt.) Ltd. as a Software Engineer, where I gained hands-on experience in JavaScript and React.js and later contributed to a .NET Core project, further strengthening my backend development skills and overall full-stack expertise.
 
 🎓 I hold a BS in Computer Science where I built a strong foundation in software development, database management and web technologies. For my final year project, I developed a software solution called “Lifeline”, designed to address patient and hospital management challenges through dedicated dashboards and data driven insights.
 
