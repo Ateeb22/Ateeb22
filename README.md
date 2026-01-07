@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ateeb Sheikh<br>💻 Full Stack Developer | IT Lecturer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing and Full Stack Development all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real world solutions through hands on learning and project based teaching.
+Hi 👋, I'm Ateeb Sheikh<br>💻 Software Engineer | Full Stack Developer | Technical Trainer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing and Full Stack Development all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real world solutions through hands on learning and project based teaching.
 
 💼 I have experience working as a Full Stack Developer at Nexiz Digital, where I contributed to the development of an HR system using Python and Django for the backend, along with frontend integration and end-to-end full-stack responsibilities.
 
