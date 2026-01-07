@@ -8,7 +8,7 @@ Before that, I worked at 7nSoft Systems (Pvt.) Ltd. as a Software Engineer, wher
 🎓 I hold a BS in Computer Science where I built a strong foundation in software development, database management and web technologies. For my final year project, I developed a software solution called “Lifeline”, designed to address patient and hospital management challenges through dedicated dashboards and data driven insights.
 
 💡 Tech Stack & Skills:
-HTML5 | CSS3 | Bootstrap | JavaScript | TypeScript | React.js | AngularJS | Python | Django | WordPress | C | C# | .NET Core | SQL | Jira | QA | Digital Marketing
+HTML5 | CSS3 | Bootstrap | JavaScript | TypeScript | TailwindCSS | MERN | MEAN | ReactJS | AngularJS | NextJS | VueJS | Python | Django | WordPress | C | C# | .NET Core | SQL | MySql | Oracle | Jira | QA | Digital Marketing | E-Commerce 
 
 🌱 I’m continuously learning and growing, currently deepening my expertise in Professional JavaScript and modern frameworks through Udemy and real world practice.
 
