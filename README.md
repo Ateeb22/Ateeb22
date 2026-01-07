@@ -27,6 +27,10 @@ HTML5 | CSS3 | Bootstrap | JavaScript | TypeScript | React.js | AngularJS | Pyth
 ![](https://nirzak-streak-stats.vercel.app/?user=Ateeb22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateeb22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ateeb22&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
