@@ -1,14 +1,14 @@
 # 💫 About Me:
-Hi 👋, I'm Ateeb Sheikh<br>💻 Software Engineer | Full Stack Developer | Technical Trainer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing and Full Stack Development all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real world solutions through hands on learning and project based teaching.
+Hi 👋, I'm Ateeb Sheikh<br>💻 Software Engineer | Full Stack Developer | Frontend Developer | Technical Trainer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working working as a Full Stack Developer at Nexiz Digital, where I contributed to the development of an HR system using Python and Django for the backend, along with frontend integration and end-to-end full-stack responsibilities. 
 
-💼 I have experience working as a Full Stack Developer at Nexiz Digital, where I contributed to the development of an HR system using Python and Django for the backend, along with frontend integration and end-to-end full-stack responsibilities.
+💼 I have experience working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing and Full Stack Development all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real world solutions through hands on learning and project based teaching.
 
 Before that, I worked at 7nSoft Systems (Pvt.) Ltd. as a Software Engineer, where I gained hands-on experience in JavaScript and React.js and later contributed to a .NET Core project, further strengthening my backend development skills and overall full-stack expertise.
 
 🎓 I hold a BS in Computer Science where I built a strong foundation in software development, database management and web technologies. For my final year project, I developed a software solution called “Lifeline”, designed to address patient and hospital management challenges through dedicated dashboards and data driven insights.
 
 💡 Tech Stack & Skills:
-HTML5 | CSS3 | Bootstrap | JavaScript | TypeScript | TailwindCSS | MERN | MEAN | ReactJS | AngularJS | NextJS | VueJS | Python | Django | WordPress | C | C# | .NET Core | SQL | MySql | Oracle | Jira | QA | Digital Marketing | E-Commerce 
+HTML5 | CSS3 | Bootstrap | JavaScript | TypeScript | TailwindCSS | MERN | MEAN | ReactJS | AngularJS | NextJS | VueJS | Python | Django | WordPress | C | C# | .NET Core | SQL | MySql | Oracle | Jira | QA | BitBucket | Digital Marketing | E-Commerce 
 
 🌱 I’m continuously learning and growing, currently deepening my expertise in Professional JavaScript and modern frameworks through Udemy and real world practice.
 
