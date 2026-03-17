@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ateeb Sheikh<br>💻 Software Engineer | Full Stack Developer | Frontend Developer | Technical Trainer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working as a Full Stack Developer at Nexiz Digital, where I contributed to the development of an HR system using Python and Django for the backend, along with frontend integration and end-to-end full-stack responsibilities. 
+Hi 👋, I'm Ateeb Sheikh<br>💻 Software Engineer | Full Stack Developer | Frontend Developer | Technical Trainer | Lifelong Learner | Tech Enthusiast<br><br> 🚀 I’m currently working as a Junior Full Stack Developer at Nexiz Digital, I focus on building dynamic, responsive and high performance user interfaces using React.js. I also have experience with the MERN stack contributing to both frontend and backend integration from design to deployment ensuring scalable, secure and efficient applications.
 
 💼 I have experience working at Sezist as an IT Lecturer, where I teach Python Programming, Digital Marketing and Full Stack Development all accredited by City & Guilds, UK. I’m passionate about helping students turn ideas into real world solutions through hands on learning and project based teaching.
 
